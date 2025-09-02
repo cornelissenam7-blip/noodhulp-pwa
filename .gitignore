@@ -1,0 +1,9 @@
+# Node / React
+node_modules/
+build/
+dist/
+.tmp/
+.DS_Store
+.env
+npm-debug.log*
+yarn-error.log
